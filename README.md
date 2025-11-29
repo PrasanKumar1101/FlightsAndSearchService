@@ -1,11 +1,11 @@
 # Welcome to Filghts Service
 
 # Project setup
-    - Clone the project on your local 
-    - Execute `npm install` on the same path as of your root directory of the downloaded project
-    - create a new `.env` file in the root directory and add the following enviornmane variable
-        -`PIRT=3000`
-    - Inside the `src/config` folder create a new file `config.json` and then add the following piece of json
+- Clone the project on your local 
+- Execute `npm install` on the same path as of your root directory of the downloaded project
+- create a new `.env` file in the root directory and add the following enviornmane variable
+    -`PIRT=3000`
+- Inside the `src/config` folder create a new file `config.json` and then add the following piece of json
 
 ```
 {
